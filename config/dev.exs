@@ -2,10 +2,11 @@ import Config
 
 # Configure your database
 config :app_brain, AppBrain.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "chillymcc",
+  password: "",
   hostname: "localhost",
   database: "app_brain_dev",
+  port: 5433,
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
