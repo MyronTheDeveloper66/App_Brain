@@ -1,0 +1,1 @@
+Initial README for AppBrain. My personal notetaking application.
